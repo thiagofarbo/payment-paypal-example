@@ -1,0 +1,8 @@
+paypal:
+  mode: sandbox
+  client:
+    id: your-paypal-client-id
+    secret: your-paypal-secret-id
+
+application:
+      url: http://localhost:8080/
